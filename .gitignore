@@ -4,8 +4,8 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-##个人账户文件
-**/src/main/resources/com.anofinda.miraibot/account.yml
+##个人账户配置文件
+**/src/main/resources/com.anofinda.miraibot/config/
 
 ##个人设备文件
 device.json
